@@ -1,4 +1,29 @@
-body
+
+.primary
 {
-   background-color: fuchsia;
+    background-color: blue;
+}
+.secondary
+{
+    background-color: gray;
+}
+.scuccess
+{
+    background-color: green;
+}
+.danger
+{
+    background-color: red;
+}
+.warning
+{
+    background-color: yellow;
+}
+.info
+{
+    background-color: lightblue;
+}
+.dark
+{
+    background-color: black;
 }
